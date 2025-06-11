@@ -1,7 +1,7 @@
 from pyrogram import filters, Client
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-START_MSG = """*Hᴇʏ {}, Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ Fɪʟᴇ Rᴇᴘʟᴀᴄᴇ Bᴏᴛ!*
+START_MSG = """**Hᴇʏ {}, Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴛʜᴇ Fɪʟᴇ Rᴇᴘʟᴀᴄᴇ Bᴏᴛ!**
 
 Yᴏᴜ ᴄᴀɴ ᴇᴀsɪʟʏ ʀᴇᴘʟᴀᴄᴇ ᴍᴇssᴀɢᴇs ɪɴ ʏᴏᴜʀ ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ɴᴇᴡ ғɪʟᴇs & ᴄᴀᴘᴛɪᴏɴs!
 
@@ -9,18 +9,18 @@ Hᴏᴡ ᴛᴏ ᴜsᴇ:
 
 1. Reply to a file with /replace command
 
-2. Use /replace (link of the old message you want to replace)
+2. Use /replace {Link To Replace}.
 
 ✨ Powered by @SuperToppers"""
 
 HELP_MSG = """
-*Follow these steps*
+**Follow these steps**
 
 1. Reply to a file with /replace command.
 
-2. Use /replace (link of the old message you want to replace).
+2. Use /replace {Link To Replace}.
 
-*<u>Note</u>:- Both you & the bot must be an admin in the target channel.*"""
+**<u>Note</u>:- Both you & the bot must be an admin in the target channel.**"""
 
 @Client.on_message(filters.command('start') & filters.private)
 async def start(client, message):
