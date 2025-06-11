@@ -9,7 +9,7 @@ Hᴏᴡ ᴛᴏ ᴜsᴇ:
 
 1. Reply to a file with /replace command
 
-2. Use /replace {Link To Replace}.
+2. Use /replace (Link To Replace).
 
 ✨ Powered by @SuperToppers"""
 
@@ -18,7 +18,7 @@ HELP_MSG = """
 
 1. Reply to a file with /replace command.
 
-2. Use /replace {Link To Replace}.
+2. Use /replace (Link To Replace).
 
 **<u>Note</u>:- Both you & the bot must be an admin in the target channel.**"""
 
