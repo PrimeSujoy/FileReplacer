@@ -6,9 +6,8 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/ANIDIVE/Media-Editor-Bot?style=flat-square&color=yellow)](https://github.com/ANIDIVE/Media-Editor-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/ANIDIVE/Media-Editor-Bot?style=flat-square&color=orange)](https://github.com/ANIDIVE/Media-Editor-Bot/fork)
-[![Size](https://img.shields.io/github/repo-size/ANIDIVE/Media-Editor-Bot?style=flat-square&color=green)](https://github.com/ANIDIVE/Media-Editor-Bot/)   
+
+  
 
 
 ## Modes
@@ -51,6 +50,6 @@ python3 main.py
 
 ## Thanks to
 
-* [Dan](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-* [CodeXBotz](https://telegram.dog/CodeXBotz) for their [MediaEditorRoBot](https://t.me/MediaEditorRoBot)
-* [ᎫᎪᏟᏦ](https://github.com/Jack-of-tg) for his [MEDIA-EDITOR-BOT](https://github.com/Jack-of-tg/MEDIA-EDITOR-BOT)
+* [Dan](https://telegram.) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
+* [SuperToppers](https://telegram.dog/SuperToppers) for their [MediaEditorRoBot](https://t.me/ReplaceFilesBot)
+* [Prime_Sujoy](https://github.com/PrimeSujoy) for his [MEDIA-EDITOR-BOT](https://github.com)
